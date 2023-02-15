@@ -1,0 +1,11 @@
+{
+
+ "rosa.distro": "noetic",
+ "ros.rosSetupScript": "/opt/ros/noetic/setup.bash",
+
+
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
+}
